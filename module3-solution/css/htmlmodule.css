@@ -13,15 +13,9 @@ body{
 	background-color: #61122F;
 	color: white;
 }
-.glyphicon{
-	font-size: 30px;
-	color:#61122F;
-}
-
 .center{
 	width: 90%;
 	background-color: grey;
-
 }
 .container
 {
@@ -30,7 +24,6 @@ body{
 .text-center{
 	font-size: 30px;
 }
-
 h2{
 	text-align: center;
 }
